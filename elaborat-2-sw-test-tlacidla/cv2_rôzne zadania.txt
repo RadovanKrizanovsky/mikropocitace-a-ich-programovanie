@@ -1,0 +1,51 @@
+zad. a:
+
+po 1. stlaèení zapni èerv
+po 2. stlaèení zhasni èerv a súèasne zapni zelenú
+po 3. stlaèení  zhasni obe
+po 4. stlaèení striedavo 5x zablikaj zel/cerv, potom 
+         zasvie zelenú LED 
+po 5. pustení zapni èervenú (len) (ako po 1.stlaèení) cyklus sa opakuje
+
+
+zad b:
+
+po 1. pustení zapni èerv
+po 2. stlaèení zhasni èerv a súèasne zapni zelenú
+po 3. stlaèení  zhasni obe
+po 4. stlaèení striedavo 4x zablikaj zel/cerv, potom 
+         zhasni obe LED 
+po 5. pustení zapni èervenú (ako po 1.stlaèení) cyklus sa opakuje
+
+
+zad c:
+
+po 1. stlaèení zapni èerv
+po 2. stlaèení zhasni èerv a súèasne zapni zelenú
+po 3. stlaèení  zhasni obe
+po 3. pustení zapni èervenú
+po 4. stlaèení striedavo 3x zablikaj zel/èerv, potom 
+         zhasni obe LED 
+po 5. stlaèení zapni èervenú (ako po 1.stlaèení) cyklus sa opakuje
+
+
+zad d:
+
+po 1. stlaèení zapni èerv
+po 2. stlaèení zhasni èerv a súèasne zapni zelenú
+po 2. pustení zapni èervenú
+po 3. stlaèení  zhasni obe
+po 4. stlaèení 5xzablik cerv (zel nesvieti), potom 
+         5 x zablik zelenou (cerv nesvieti),
+         zhasni obe LED 
+po 5. stlaèení zapni èervenú (ako po 1.stlaèení) cyklus sa opakuje
+
+
+zad e:
+
+po 1. stlacení zapni zelenú
+po 2. stlacení vypni zelenú a súèasne zapni èervenú
+po 2. pusteni zapni zelenú a súèasne vypni èervenú
+po 3. stlaceni obe vypni
+po 4. pustení bliknú 3x striedavo, prvá zasvieti zelená a potom zhasnú
+po 5. stlaceni to isté ako po 1. (zelená zapni), cyklus sa opakuje
